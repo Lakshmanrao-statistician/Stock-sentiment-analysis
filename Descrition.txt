@@ -1,0 +1,22 @@
+Problem statement: create Machine Learning Algorthem using Stock Sentiment Analysis using News Headlines
+                    It's not prediction problem, showing stock is incresing or decreasing.
+                    It's an example of review/feedback problem
+                    
+About of data: 25 features are described as top1, top2.....top25 (Headlines) & Label 
+'0' represent negative impact '1' represent positive impact.
+
+
+NLP Natural Language Process
+
+Text preprocessing (it's a text analysis)
+
+Reading data need to encoding = "ISO-8859-1" because in data so many special characters.
+
+All sentencess converted into vectors : That is combining all independent variables into one category 
+so, that it's easy to convert into vector
+
+CountVectorizer
+
+ 
+
+machine learning pipeline also we can impliment. 
